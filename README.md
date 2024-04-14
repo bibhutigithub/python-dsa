@@ -1,2 +1,2 @@
 # python-dsa
-Data structures and Algorithms using Python
+Data Structures and Algorithm Problems Solved using Python
